@@ -1,0 +1,7 @@
+{
+  "sequence": "CTGCCAACCTAATCGAAGTCGCTCTTTTTCCGGAGCATTTTCGATAGAAACTTTCGTCTTCGACTCGACGAAGAGTTCACCAAAATCCACGCTGGTTGGT",
+  "logits": null,
+  "sampled_probs": null,
+  "elapsed_ms": 81076,
+  "elapsed_ms_per_token": null
+}
